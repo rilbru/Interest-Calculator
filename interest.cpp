@@ -1,12 +1,3 @@
-/*****************************************************************************
-# Author:           Devri Anderson 
-# Lab:              Assignment #2
-# Date:             January 22, 2022
-# Description:      This program will calculate simple and compound interest
-# Input:            int choice, double principal, double rate, double time, double comPeriod
-# Output:           double totalAccrued, double interest
-# Sources:          Zybooks
-******************************************************************************/
 #include <iostream>
 #include <iomanip>
 #include <cmath>
